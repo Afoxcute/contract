@@ -27,4 +27,4 @@ To get started with the contract, follow these steps:
    npx hardhat run ./scripts/deploy.js
    ```
 
-4. Open [[http://localhost:3000](https://scan.test.btcs.network/address/0x7296c77Edd04092Fd6a8117c7f797E0680d97fa1)](https://scan.test.btcs.network/address/0x7296c77Edd04092Fd6a8117c7f797E0680d97fa1) in your browser to see the Contract on-chain.
+4. Open [[Contract on-chain](https://scan.test.btcs.network/address/0x7296c77Edd04092Fd6a8117c7f797E0680d97fa1)](https://scan.test.btcs.network/address/0x7296c77Edd04092Fd6a8117c7f797E0680d97fa1) in your browser to see the Contract on-chain.
