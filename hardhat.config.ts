@@ -9,7 +9,7 @@ module.exports = {
     }
   },
   networks: {
-    electroneum: {
+    coreDAO: {
       url: "https://core-testnet.drpc.org",
       accounts: [process.env.YOUR_PRIVATE_KEY],
       // chainId: 5000
